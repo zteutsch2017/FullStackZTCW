@@ -1,5 +1,21 @@
+/*
+Zach Teutsch + Calvin Woods
+Full Stack Project
+May 2017
+
+~CSS stylesheet~
+*/
+
 h3 {
 
   font-size: 24px;
 
+}
+
+#sub {
+
+  outline-style: solid;
+  outline-width: 2px;
+  outline-color: black;
+  padding: 5px;
 }
